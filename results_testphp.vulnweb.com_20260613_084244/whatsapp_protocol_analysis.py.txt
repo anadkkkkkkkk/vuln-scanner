@@ -1,4 +1,0 @@
-[*] WhatsApp Protocol Analyzer (mock)
-[*] XMPP handshake simulation
-[*] Media upload bypass test (mock)
-[+] Analysis complete.

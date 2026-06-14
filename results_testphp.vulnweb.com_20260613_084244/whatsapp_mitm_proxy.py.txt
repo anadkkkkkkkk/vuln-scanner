@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "/root/meta_pentest_suite/whatsapp_mitm_proxy.py", line 4, in <module>
-    import websockets
-ModuleNotFoundError: No module named 'websockets'
