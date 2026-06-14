@@ -1,0 +1,17 @@
+PASS: meta_full_pentest.sh
+PASS: meta_pentest_framework.sh
+PASS: bypass_techniques.sh
+PASS: meta_bug_hunting.sh
+PASS: whatsapp_mitm_proxy.py
+PASS: whatsapp_protocol_analysis.py
+PASS: oauth_bypass.py
+PASS: facebook_graphql_exploits.py
+PASS: instagram_exploit.py
+PASS: instagram_api_exploit.py
+PASS: meta_web_exploits.py
+PASS: advanced_data_extraction.py
+PASS: final_report.py
+
+========================================
+  الملخص النهائي
+========================================

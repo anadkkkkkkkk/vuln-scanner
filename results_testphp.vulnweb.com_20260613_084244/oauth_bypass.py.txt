@@ -1,0 +1,4 @@
+[*] Testing https://evil.com/oauth_callback -> HTTP 302
+[*] Testing //evil.com/callback -> HTTP 302
+[*] GQL query: {__schema{types{name}}}... (mock)
+[*] GQL query: {user(id:"1"){id,email}}... (mock)

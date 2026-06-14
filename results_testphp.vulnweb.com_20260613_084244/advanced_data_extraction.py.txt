@@ -1,0 +1,3 @@
+[*] Data extractor initialized (mock)
+[+] Extracted mock data for 123456
+[+] Extracted mock data for testuser

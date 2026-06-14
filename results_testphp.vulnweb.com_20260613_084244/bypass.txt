@@ -1,0 +1,4 @@
+[+] Testing Rate Limit Bypass (mock)...
+Proxies: localhost:9050, localhost:8080, localhost:3128
+Captcha bypass simulation (selenium required for real test).
+[+] Test complete. No actual attack performed.
